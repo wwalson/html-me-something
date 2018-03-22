@@ -9,5 +9,20 @@ h1 {
 }
 h2 {
     color: rgb(245, 12, 24);
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times,;
+    margin: 20px 10px 15px;
+    }
+section{
+    padding: 25px 40px 40px 40px;
+    border: 1px whitesmoke;
+}
+
+section.ninja{
+    background-color: dodgerblue;
+    font-family: cursive;
+}
+
+#rap{
+    background-color: tomato;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
